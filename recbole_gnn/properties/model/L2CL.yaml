@@ -1,0 +1,8 @@
+embedding_size: 64
+n_layers: 1
+reg_weight: 1e-05
+require_pow: False
+
+ssl_temp: 0.1
+alpha: 0.5
+ssl_reg: 1e-5

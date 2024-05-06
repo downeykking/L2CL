@@ -1,0 +1,1 @@
+python main.py --model="L2CL" --dataset="amazon-books" --config_files='properties/L2CL.yaml' --ssl_temp=0.1 --ssl_reg=1e-5

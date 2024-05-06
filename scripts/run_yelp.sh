@@ -1,0 +1,1 @@
+python main.py --model="L2CL" --dataset="yelp" --config_files='properties/L2CL.yaml' --ssl_temp=0.1 --ssl_reg=5e-5
